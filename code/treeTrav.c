@@ -114,5 +114,3 @@ int main()
 	inTrav(T);
 	return 0;
 }
-	
-}
